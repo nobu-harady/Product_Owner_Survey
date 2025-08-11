@@ -32,7 +32,11 @@ sm_survey/
 　├── sm_behavior.md
 　└── love_to_work_with_sm.md
 </pre>
-## 各ファイルの説明
+## 各フォルダ／ファイルの説明
+### po_survey
+PO（プロダクトオーナー）に関してのアンケート結果をまとめています。
+### sm_survey
+SM（スクラムマスター）に関してのアンケート結果をまとめています。
 ### image
 「Q. あなたの思う PO | SM のイメージを一言で教えて頂けますか？」に対する回答。
 ### affinity
