@@ -9,7 +9,7 @@
 [https://docs.google.com/forms/d/e/1FAIpQLScOYAYLV2882wTk4jpXzH2e9oKx9oC8yOziICq8RqCfdARc-A/viewform
 ](https://docs.google.com/forms/d/e/1FAIpQLScOYAYLV2882wTk4jpXzH2e9oKx9oC8yOziICq8RqCfdARc-A/viewform)
 ## 回答状況　(2025/09/22 20:00時点)
-*合計41人*
+*合計43人*
 1. PO経験あり　✖︎　SM経験あり　：　 6　人
 2. PO経験あり　✖︎　SM経験なし　：　13　人
 3. PO経験なし　✖︎　SM経験あり　：　 7　人
